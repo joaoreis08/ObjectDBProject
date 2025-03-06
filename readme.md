@@ -23,7 +23,9 @@ O programa apresenta um menu interativo com as seguintes opções:
 - 4️⃣ Gerenciar Empréstimos
 - 5️⃣ Sair
 
-🛠 Requisitos
-Implementação completa das operações CRUD.
-Interface interativa e intuitiva.
-Manipulação correta dos dados.
+##🛠 Requisitos
+- Implementação completa das operações CRUD.
+
+- Interface interativa e intuitiva.
+
+- Manipulação correta dos dados.
