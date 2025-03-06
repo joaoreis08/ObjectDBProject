@@ -1,31 +1,28 @@
-# Projeto ObjectDB - CRUD
+## Projeto ObjectDB - CRUD
+Este repositório contém a implementação de um sistema CRUD (Create, Read, Update, Delete) para gerenciamento de diferentes entidades, desenvolvido como atividade acadêmica.
 
-Este repositório contém a atividade proposta para a disciplina, que consiste em adicionar funcionalidades CRUD ao código disponibilizado na pasta "ProjetoObjectDB" no Teams.
+📌 ## Funcionalidades
+O sistema permite a manipulação de quatro entidades:
 
-## Descrição da Atividade
+Usuário
+Funcionário
+Livro
+Empréstimo
+Para cada uma delas, é possível:
+✅ Criar novos registros
+✅ Consultar registros existentes
+✅ Editar informações
+✅ Excluir registros
 
-O objetivo desta atividade é implementar um fluxo interativo para que o usuário possa gerenciar dados relacionados a diferentes entidades. As funcionalidades a serem implementadas incluem:
-- **Criação**
-- **Leitura**
-- **Edição**
-- **Exclusão**
+📜 Estrutura do Menu
+O programa apresenta um menu interativo com as seguintes opções:
+1️⃣ Gerenciar Usuários
+2️⃣ Gerenciar Funcionários
+3️⃣ Gerenciar Livros
+4️⃣ Gerenciar Empréstimos
+5️⃣ Sair
 
-## Estrutura do Menu
-
-O sistema deve apresentar um menu para o usuário escolher a entidade que deseja manipular:
-1. Usuário
-2. Funcionário
-3. Livro
-4. Empréstimo
-5. Sair
-
-Cada opção deve permitir a execução das operações CRUD.
-
-## Requisitos
-
-- Implementar um sistema funcional de CRUD para as entidades mencionadas.
-- Criar um fluxo de interação amigável com o usuário.
-- Garantir que os dados sejam manipulados corretamente.
-
-
-
+🛠 Requisitos
+Implementação completa das operações CRUD.
+Interface interativa e intuitiva.
+Manipulação correta dos dados.
