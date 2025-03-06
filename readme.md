@@ -1,7 +1,8 @@
 ## Projeto ObjectDB - CRUD
 Este repositório contém a implementação de um sistema CRUD (Create, Read, Update, Delete) para gerenciamento de diferentes entidades, desenvolvido como atividade acadêmica.
 
-📌 ## Funcionalidades
+## 📌 Funcionalidades
+
 O sistema permite a manipulação de quatro entidades:
 
 Usuário
