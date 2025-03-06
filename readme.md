@@ -9,18 +9,18 @@ Funcionário
 Livro
 Empréstimo
 Para cada uma delas, é possível:
-✅ Criar novos registros
-✅ Consultar registros existentes
-✅ Editar informações
-✅ Excluir registros
+- ✅ Criar novos registros
+- ✅ Consultar registros existentes
+- ✅ Editar informações
+- ✅ Excluir registros
 
 📜 Estrutura do Menu
 O programa apresenta um menu interativo com as seguintes opções:
-1️⃣ Gerenciar Usuários
-2️⃣ Gerenciar Funcionários
-3️⃣ Gerenciar Livros
-4️⃣ Gerenciar Empréstimos
-5️⃣ Sair
+- 1️⃣ Gerenciar Usuários
+- 2️⃣ Gerenciar Funcionários
+- 3️⃣ Gerenciar Livros
+- 4️⃣ Gerenciar Empréstimos
+- 5️⃣ Sair
 
 🛠 Requisitos
 Implementação completa das operações CRUD.
